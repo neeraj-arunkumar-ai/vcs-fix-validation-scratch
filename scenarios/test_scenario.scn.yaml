@@ -1,0 +1,7 @@
+metadata:
+  name: "VCS test scenario"
+  scenario_version: v0.92
+sim_end:
+  until:
+    - timeout: { secs: 30s }
+agents: []
