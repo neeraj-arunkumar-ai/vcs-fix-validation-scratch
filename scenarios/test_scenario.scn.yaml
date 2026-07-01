@@ -1,5 +1,5 @@
 metadata:
-  name: "VCS test scenario"
+  name: "REMOTE EDIT (conflict)"
   scenario_version: v0.92
 sim_end:
   until:
