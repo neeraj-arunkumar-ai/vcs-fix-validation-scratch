@@ -1,5 +1,5 @@
 metadata:
-  name: "REMOTE EDIT (conflict)"
+  name: "REMOTE EDIT FINAL (second divergent commit)"
   scenario_version: v0.92
 sim_end:
   until:
